@@ -18,7 +18,7 @@ public class Calculator {
 	
 
 	public double devide(double a, double b) {
-		return a / b;
+		return a % b;
 	}
 	
 	
