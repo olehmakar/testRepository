@@ -19,6 +19,7 @@ public class Calculator {
 
 	public double devide(double a, double b) {
 		return a % b;
+		System.out.println("qweerwer");
 	}
 	
 	
